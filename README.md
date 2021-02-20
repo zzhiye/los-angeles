@@ -1,6 +1,6 @@
 # Los Angeles Tile Sets Map
 
-This repository contains the neccessary files to create and display an interactive web map of four different tiles of Los Angeles, CA. Below will show each of the four tile layers with an image and information regarding its description, geographic area of focus, and zoom levels. Lastly, the interactive map can be viewed [here](https://zzhiye.github.io/los-angeles/index.html).
+This repository contains the neccessary files to create and display an interactive web map of four different tiles of Los Angeles, CA. Below will show each of the four tile layers with an image and information regarding its description, geographic area of focus, and zoom levels. Lastly, the interactive map can be viewed at: https://zzhiye.github.io/los-angeles/.
 
 ## Tile 1 - Modified Basemap
 
